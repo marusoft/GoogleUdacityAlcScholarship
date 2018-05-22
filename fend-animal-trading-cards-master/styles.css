@@ -1,0 +1,51 @@
+/* add your CSS here */
+
+body{
+	border: 0.5px solid #dcdcdc;
+    width: 375px;
+    /*  margin creates extra 
+    space around an element. */
+    margin: 12px auto 14px auto;
+    /* Padding creates extra space 
+    within an element. */
+    padding: 10px 2px 14px 2px;
+
+}
+ 
+.fact{
+	font-style: italic;
+	font-weight: lighter;
+
+}
+img{
+	width: 300px;
+}
+
+.description{
+	font-weight: lighter;
+}
+
+.top{
+	width: 301px;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid #dcdcdc;
+    box-shadow: 8px 8px 5px 0px #c0c0c0;
+}
+
+.camelfont{
+	margin-top: 10px;
+    font-size: 14px;
+    padding: 12px;
+	border: 1px solid #dcdcdc;
+}
+.items{
+	font-weight: bolder;
+}
+
+.list{
+	list-style: none;
+	text-indent: -2.8em;
+}
+
+
